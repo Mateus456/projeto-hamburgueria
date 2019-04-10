@@ -1,0 +1,24 @@
+ion-content {
+    --background: #FFEFD5;
+}
+
+ion-badge {
+    color: #fff;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    border-radius: 100%;
+}
+ 
+.category-block {
+    margin-bottom: 4px;
+    --ion-background-color: #FFEFD5;
+}
+ 
+.category-banner {
+    border-left: 8px solid var(--ion-color-danger);
+    background: var(--ion-color-warning);
+    height: 40px;
+    padding: 10px;
+    font-weight: 500;
+}
